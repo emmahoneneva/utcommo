@@ -1,0 +1,5 @@
+/* Example CSS */
+.element {
+    border: 1px solid black; /* Border around the element */
+    padding-top: 10px; /* Padding above the content inside the border */
+}
