@@ -1,0 +1,8 @@
+  .flex-container {
+      display: flex;
+      justify-content: space-between; /* Example alignment */
+  }
+  .flex-item {
+      /* No need for specific width calculations */
+  }
+  
